@@ -1,6 +1,6 @@
 
 
-##🚀 AI & ML for DevOps: My Learning Journey Begins!
+## 🚀 AI & ML for DevOps: My Learning Journey Begins!
 
 
 Hello everyone! 👋
