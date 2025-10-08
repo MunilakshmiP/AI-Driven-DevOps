@@ -62,7 +62,7 @@ and my environment will be cloned perfectly. Chef’s kiss 👩‍🍳✨
 
 ----------
 
-## 🧠 Step 3: Enter NumPy — The Math Magician
+## 🧠 Step 2: Enter NumPy — The Math Magician
 
 If Python lists are cute puppies 🐶,  
 then NumPy arrays are trained military robots 🤖 —  
@@ -95,7 +95,7 @@ This is **science** 😎
 
 ----------
 
-## 🧮 Step 4: Playing with NumPy Like a Pro
+## 🧮 Step 3: Playing with NumPy Like a Pro
 
 Once I got comfortable, I played around a bit:
 
@@ -113,7 +113,7 @@ In my DevOps world, I’d call that _automation with elegance_. 😌
 
 ----------
 
-## 🎲 Step 5: My First Mini Project — Dice Simulator 1000X!
+## 🎲 Step 4: My First Mini Project — Dice Simulator 1000X!
 
 Now that I had my new powers, I wanted to do something fun!
 
@@ -184,7 +184,7 @@ I _understood math without feeling sleepy._ 😂
 
 ----------
 
-## 🧩 Step 6: Connecting It Back to DevOps
+## 🧩 Step 5: Connecting It Back to DevOps
 
 You might wonder —  
 “Hey Muni, what’s this got to do with DevOps?” 🤔
