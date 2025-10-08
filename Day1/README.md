@@ -8,7 +8,7 @@ So… I decided — enough watching!
 It’s time I **bring AI into my DevOps world**. 💥
 
 And today marks the _real_ beginning of that adventure.  
-This post is my **Day 2 journal** — full of experiments, small victories, and happy chaos 😄
+This post is my **Day 1 journal** — full of experiments, small victories, and happy chaos 😄
 
 ----------
 
